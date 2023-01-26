@@ -1,6 +1,6 @@
 {
   "name": "ual-reactjs-renderer",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "main": "dist/index.js",
   "author": {
     "name": "block.one",
@@ -36,7 +36,6 @@
     "@babel/plugin-transform-regenerator": "^7.8.7",
     "@babel/preset-env": "^7.8.7",
     "@babel/preset-react": "^7.8.3",
-    "@blockone/eslint-config-blockone": "^3.0.0",
     "@types/i18next": "^12.1.0",
     "@types/i18next-browser-languagedetector": "^2.0.1",
     "@types/jest": "^25.1.4",
